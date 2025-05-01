@@ -1,4 +1,4 @@
-
+# Pulsar GRUB Theme
 ## Installation:
 
 Usage:  `./install.sh [OPTIONS...]`
