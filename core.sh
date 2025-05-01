@@ -1,6 +1,6 @@
 
 readonly ROOT_UID=0
-readonly Project_Name="GRUB2_ELEGANT_THEMES"
+readonly Project_Name="PULSAR_GRUB_THEME"
 readonly MAX_DELAY=20                               # max delay for user to enter root password
 tui_root_login=
 
