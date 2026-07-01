@@ -1,3 +1,5 @@
+> [!NOTE]
+> Pulsar OS GRUB theme is deprecated as PulsarOS now uses rEFInd
 # Pulsar GRUB Theme
 ## Installation:
 
@@ -58,13 +60,3 @@ sudo ./install.sh -r -t window
    - Run `cd assets; ./render-all.sh`
  - Create a pull request from your branch or fork
  - If any issues occur, report then to the [issue](issues) page
-
-## Preview:
-![preview-01](backgrounds/previews/preview-window.jpg?raw=true)
-![preview-02](backgrounds/previews/preview-sidebar.jpg?raw=true)
-
-## Documents
-
-[Grub2 theme reference](https://wiki.rosalab.ru/en/index.php/Grub2_theme_/_reference)
-
-[Grub2 theme tutorial](https://wiki.rosalab.ru/en/index.php/Grub2_theme_tutorial)
