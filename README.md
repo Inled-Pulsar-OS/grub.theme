@@ -1,5 +1,4 @@
-> [!NOTE]
-> Pulsar OS GRUB theme is deprecated as PulsarOS now uses rEFInd
+
 # Pulsar GRUB Theme
 ## Installation:
 
