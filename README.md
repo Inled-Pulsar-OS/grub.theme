@@ -1,5 +1,7 @@
 
-# Pulsar GRUB Theme
+# Pulsar GRUB Theme   
+
+![img](backgrounds/backgrounds/background-window.jpg)
 ## Installation:
 
 Usage:  `./install.sh [OPTIONS...]`
