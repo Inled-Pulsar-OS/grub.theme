@@ -73,7 +73,6 @@ copy_files() {
   cp -a --no-preserve=ownership "${REO_DIR}/assets/assets-other/other-${screen}/select_e.png" "${THEME_DIR}"
   cp -a --no-preserve=ownership "${REO_DIR}/assets/assets-other/other-${screen}/select_c.png" "${THEME_DIR}"
   cp -a --no-preserve=ownership "${REO_DIR}/assets/assets-other/other-${screen}/select_w.png" "${THEME_DIR}"
-  cp -a --no-preserve=ownership "${REO_DIR}/assets/assets-other/other-${screen}/${theme}.png" "${THEME_DIR}/info.png"
 
   # Use custom background.jpg as grub background image
   if [[ -f "${REO_DIR}/background.jpg" ]]; then
